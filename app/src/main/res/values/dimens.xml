@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginStart_title">10dp</dimen>
+    <dimen name="marginTopTitle">10dp</dimen>
+    <dimen name="textSize_title">16sp</dimen>
+    <dimen name="textSize_item">10sp</dimen>
+    <dimen name="marginStart_item">10dp</dimen>
+    <dimen name="marginTop_title">5dp</dimen>
+    <dimen name="marginTop_AboutMe_title">20dp</dimen>
+    <dimen name="marginStart_aboutMe_title">20dp</dimen>
+    <dimen name="marginEnd_AboutMe_title">20dp</dimen>
+    <dimen name="marginTop_aboutMe_item">5dp</dimen>
+    <dimen name="marginStart_aboutMe_item">30dp</dimen>
+    <dimen name="marginEnd_aboutMe_item">20dp</dimen>
+</resources>

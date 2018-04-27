@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CVApplication</string>
+    <string name="myImageDescription">myImage</string>
+    <string name="textview_myName">Tomislav Gazica</string>
+    <string name="textview_contactInfo">Contact:</string>
+    <string name="textview_email">tomislav.gazica@gmail.com</string>
+    <string name="textview_mobileNumber">0911442056</string>
+    <string name="textview_languages">Languages:</string>
+    <string name="textview_croatianText">Croatian</string>
+    <string name="textview_englishText">English</string>
+    <string name="textview_skillsText">Skills:</string>
+    <string name="textview_teamworkText">Teamwork</string>
+    <string name="textview_linuxText">Linux (Arch)</string>
+    <string name="textview_javaText">Java</string>
+    <string name="textview_androidText">Android development</string>
+    <string name="textview_aboutMeText">ABOUT ME</string>
+    <string name="textview_birthdayText">Date of birth: 05.04.1994.</string>
+    <string name="textview_birthCityText">Place of birth: Nova Gradiska</string>
+    <string name="textview_currentResidenceText">Current residence: Osijek</string>
+    <string name="textview_educationText">EDUCATION</string>
+    <string name="textview_middleschoolText">Electrotehnical middleschool Nova Gradiska</string>
+    <string name="textview_collegeText">Faculty of Electrical Engineering ,Computing and Information Technology, Josip Juraj Strossmayer University of Osijek</string>
+</resources>
